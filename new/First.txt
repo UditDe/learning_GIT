@@ -1,0 +1,29 @@
+This is my first git repositary
+i want to commit noting
+some git commands....
+1) git log 
+	//for checking the activity log
+2) rm -rf .git
+	//to delete all the repository
+3) git status 
+	//to check the status 
+4) pwd
+	//present working directory
+5) ls
+	//it lists the content of present working directory
+6) cd
+	//change directory{basically used to get into any directory}
+7) git init
+	//initialing new git repository
+8) git add --a
+	//add all files on the staging area
+9) git commit -m "messege"
+	//committing staging files
+10)git config --global user.name "<username>"
+	//initializig the author
+11)git config --global user.email "<emailID>"
+	//initializig the author's emailID
+12)git add <file_name>
+	//staging the perticular file
+13)git clone <link>
+	//cloning the repo
