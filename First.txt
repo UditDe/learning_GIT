@@ -29,3 +29,5 @@ some git commands....
 	//cloning the repo.
 14)git diff 
 	//compares working directory with stagging area
+15)git diff --staged
+	//compares privious commits with the current staged area
