@@ -33,3 +33,5 @@ some git commands....
 	//compares privious commits with the current staged area
 14)git commit -a -m
 	//commtis all files without staging
+15)git rm <file_name>
+	//removing the file
