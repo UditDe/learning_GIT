@@ -35,3 +35,5 @@ some git commands....
 	//commtis all files without staging
 15)git rm <file_name>
 	//removing the file
+16)git mv <current_file_name> <new_flie_name>
+	//to rename the file
