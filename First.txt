@@ -31,3 +31,5 @@ some git commands....
 	//compares working directory with stagging area
 15)git diff --staged
 	//compares privious commits with the current staged area
+14)git commit -a -m
+	//commtis all files without staging
