@@ -39,3 +39,21 @@ some git commands....
 	//to rename the file
 17)git rm --cached <file_name>
 	//starting to untrack the file which was previously tracked
+18)git log -p 
+	//detail of the  all commits
+19)git log -p -<any_number>
+	//detail of that nummber of commits 
+20)git log --stat
+	//shows commit details in short
+21)git log --pretty=oneline
+	//all commits in one line
+22)git log --pretty=short 
+	//shows all commits only with its autor
+23)git log --pretty=full
+	//shows all commits only with its autor and commiter
+24)git log --since=<number>.<days/weeks/months/years>
+	//shows commits of last given number of days/weeks/......
+25)git commit --amend
+	//to edit recent commit
+	//to write the commit.... write 'i' then write your commit and then press "esc" the write ":wq" and press enter
+ 
