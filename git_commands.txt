@@ -57,5 +57,6 @@ some git commands....
 	//to edit recent commit
 	//to write the commit.... write 'i' then write your commit and then press "esc" the write ":wq" and press enter
 26)git checkout -- <file_name>
-	//to return previous commit
- 
+	//to return previous commit of that file
+27)26)git checkout -f
+ 	////to return previous commit of all files
